@@ -1,0 +1,35 @@
+To Make the Server your own you must go into 
+
+1) http.json
+
+spt/Aki_Data/Server/configs/http.json  
+
+change the backend ip to your own PUBLIC ip address.
+
+2) port forward
+
+you will also have to port forward 6969 on your router
+
+very easy - go to your router portal, then find firewall options/port forwarding. 
+
+add a new entry - Choose Both for UDP/TCP, then put 6969 in all fields.
+remember to save the new entry.
+
+3)
+
+Launcher IP
+
+change launcher IP address by going to spt/user/launcher/config.json
+
+change Url to your PUBLIC IP + 6969
+
+4)
+
+In-game IP
+
+my have to open f12 settings and find Fika
+
+then change the ip to your Public IP.
+
+
+
