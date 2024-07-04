@@ -1,0 +1,988 @@
+2024-07-01 20:33:28.435 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [1]: URL: http://195.213.83.72:6969/client/game/start, crc: .  
+2024-07-01 20:33:28.604 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [1]: URL: http://195.213.83.72:6969/client/game/start, crc: , responseText: . 
+2024-07-01 20:33:28.604 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [2]: URL: http://195.213.83.72:6969/client/menu/locale/en, crc: .  
+2024-07-01 20:33:28.670 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [2]: URL: http://195.213.83.72:6969/client/menu/locale/en, crc: , responseText: . 
+2024-07-01 20:33:28.688 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [3]: URL: http://195.213.83.72:6969/client/game/version/validate, crc: .  
+2024-07-01 20:33:28.942 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [3]: URL: http://195.213.83.72:6969/client/game/version/validate, crc: , responseText: . 
+2024-07-01 20:33:28.942 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [4]: URL: http://195.213.83.72:6969/client/languages, crc: .  
+2024-07-01 20:33:28.994 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [4]: URL: http://195.213.83.72:6969/client/languages, crc: , responseText: . 
+2024-07-01 20:33:29.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [5]: URL: http://195.213.83.72:6969/client/game/config, crc: .  
+2024-07-01 20:33:29.095 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [5]: URL: http://195.213.83.72:6969/client/game/config, crc: , responseText: . 
+2024-07-01 20:33:30.704 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [6]: URL: http://195.213.83.72:6969/client/items, crc: .  
+2024-07-01 20:33:38.637 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [6]: URL: http://195.213.83.72:6969/client/items, crc: , responseText: . 
+2024-07-01 20:33:38.659 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [7]: URL: http://195.213.83.72:6969/client/customization, crc: .  
+2024-07-01 20:33:38.889 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [7]: URL: http://195.213.83.72:6969/client/customization, crc: , responseText: . 
+2024-07-01 20:33:38.940 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [8]: URL: http://195.213.83.72:6969/client/globals, crc: .  
+2024-07-01 20:33:39.671 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [8]: URL: http://195.213.83.72:6969/client/globals, crc: , responseText: . 
+2024-07-01 20:33:39.674 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [9]: URL: http://195.213.83.72:6969/client/trading/api/traderSettings, crc: .  
+2024-07-01 20:33:39.722 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [9]: URL: http://195.213.83.72:6969/client/trading/api/traderSettings, crc: , responseText: . 
+2024-07-01 20:33:39.722 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [10]: URL: http://195.213.83.72:6969/client/settings, crc: .  
+2024-07-01 20:33:39.773 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [10]: URL: http://195.213.83.72:6969/client/settings, crc: , responseText: . 
+2024-07-01 20:33:39.773 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [11]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: .  
+2024-07-01 20:33:40.569 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [11]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-01 20:33:40.586 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [12]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: .  
+2024-07-01 20:33:40.636 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [12]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-01 20:33:40.934 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [13]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 20:33:40.988 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [13]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 20:33:40.988 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [14]: URL: http://195.213.83.72:6969/client/weather, crc: .  
+2024-07-01 20:33:41.002 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [15]: URL: http://195.213.83.72:6969/client/locale/en, crc: .  
+2024-07-01 20:33:41.002 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [16]: URL: http://195.213.83.72:6969/client/locations, crc: .  
+2024-07-01 20:33:41.057 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [14]: URL: http://195.213.83.72:6969/client/weather, crc: , responseText: . 
+2024-07-01 20:33:41.533 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [15]: URL: http://195.213.83.72:6969/client/locale/en, crc: , responseText: . 
+2024-07-01 20:33:41.978 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [16]: URL: http://195.213.83.72:6969/client/locations, crc: , responseText: . 
+2024-07-01 20:33:41.991 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [17]: URL: http://195.213.83.72:6969/client/handbook/templates, crc: .  
+2024-07-01 20:33:42.320 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [17]: URL: http://195.213.83.72:6969/client/handbook/templates, crc: , responseText: . 
+2024-07-01 20:33:43.799 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [18]: URL: http://195.213.83.72:6969/client/hideout/areas, crc: .  
+2024-07-01 20:33:43.883 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [18]: URL: http://195.213.83.72:6969/client/hideout/areas, crc: , responseText: . 
+2024-07-01 20:33:43.953 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [19]: URL: http://195.213.83.72:6969/client/hideout/qte/list, crc: .  
+2024-07-01 20:33:44.025 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [19]: URL: http://195.213.83.72:6969/client/hideout/qte/list, crc: , responseText: . 
+2024-07-01 20:33:44.025 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [20]: URL: http://195.213.83.72:6969/client/hideout/settings, crc: .  
+2024-07-01 20:33:44.076 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [20]: URL: http://195.213.83.72:6969/client/hideout/settings, crc: , responseText: . 
+2024-07-01 20:33:44.081 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [21]: URL: http://195.213.83.72:6969/client/hideout/production/recipes, crc: .  
+2024-07-01 20:33:44.194 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [21]: URL: http://195.213.83.72:6969/client/hideout/production/recipes, crc: , responseText: . 
+2024-07-01 20:33:44.194 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [22]: URL: http://195.213.83.72:6969/client/hideout/production/scavcase/recipes, crc: .  
+2024-07-01 20:33:44.245 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [22]: URL: http://195.213.83.72:6969/client/hideout/production/scavcase/recipes, crc: , responseText: . 
+2024-07-01 20:33:44.245 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [23]: URL: http://195.213.83.72:6969/client/builds/list, crc: .  
+2024-07-01 20:33:44.362 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [23]: URL: http://195.213.83.72:6969/client/builds/list, crc: , responseText: . 
+2024-07-01 20:33:47.213 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [24]: URL: http://195.213.83.72:6969/client/notifier/channel/create, crc: .  
+2024-07-01 20:33:47.213 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [25]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 20:33:47.213 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [26]: URL: http://195.213.83.72:6969/client/trading/customization/storage, crc: .  
+2024-07-01 20:33:47.261 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [25]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 20:33:47.299 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [24]: URL: http://195.213.83.72:6969/client/notifier/channel/create, crc: , responseText: . 
+2024-07-01 20:33:47.299 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [26]: URL: http://195.213.83.72:6969/client/trading/customization/storage, crc: , responseText: . 
+2024-07-01 20:33:47.341 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [27]: URL: http://195.213.83.72:6969/client/server/list, crc: .  
+2024-07-01 20:33:47.341 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [28]: URL: http://195.213.83.72:6969/client/match/group/current, crc: .  
+2024-07-01 20:33:47.341 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [30]: URL: http://195.213.83.72:6969/client/friend/list, crc: .  
+2024-07-01 20:33:47.345 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [29]: URL: http://195.213.83.72:6969/client/mail/dialog/list, crc: .  
+2024-07-01 20:33:47.345 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [31]: URL: http://195.213.83.72:6969/client/friend/request/list/inbox, crc: .  
+2024-07-01 20:33:47.345 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [32]: URL: http://195.213.83.72:6969/client/friend/request/list/outbox, crc: .  
+2024-07-01 20:33:47.345 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [33]: URL: http://195.213.83.72:6969/client/quest/list, crc: .  
+2024-07-01 20:33:47.379 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [27]: URL: http://195.213.83.72:6969/client/server/list, crc: , responseText: . 
+2024-07-01 20:33:47.379 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [28]: URL: http://195.213.83.72:6969/client/match/group/current, crc: , responseText: . 
+2024-07-01 20:33:47.379 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [30]: URL: http://195.213.83.72:6969/client/friend/list, crc: , responseText: . 
+2024-07-01 20:33:47.436 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [31]: URL: http://195.213.83.72:6969/client/friend/request/list/inbox, crc: , responseText: . 
+2024-07-01 20:33:47.436 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [32]: URL: http://195.213.83.72:6969/client/friend/request/list/outbox, crc: , responseText: . 
+2024-07-01 20:33:47.436 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [29]: URL: http://195.213.83.72:6969/client/mail/dialog/list, crc: , responseText: . 
+2024-07-01 20:33:47.902 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [33]: URL: http://195.213.83.72:6969/client/quest/list, crc: , responseText: . 
+2024-07-01 20:33:48.101 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [34]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-01 20:33:48.171 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [34]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-01 20:33:48.185 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [35]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: .  
+2024-07-01 20:33:48.241 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [35]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-01 20:33:48.241 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [36]: URL: http://195.213.83.72:6969/client/achievement/list, crc: .  
+2024-07-01 20:33:48.359 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [36]: URL: http://195.213.83.72:6969/client/achievement/list, crc: , responseText: . 
+2024-07-01 20:36:08.291 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [37]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 20:36:08.326 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [37]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 20:37:48.461 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [38]: URL: http://195.213.83.72:6969/client/checkVersion, crc: .  
+2024-07-01 20:37:48.577 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [38]: URL: http://195.213.83.72:6969/client/checkVersion, crc: , responseText: . 
+2024-07-01 20:38:13.615 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [39]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: .  
+2024-07-01 20:38:13.829 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [39]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-01 20:38:23.465 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [40]: URL: http://195.213.83.72:6969/client/insurance/items/list/cost, crc: .  
+2024-07-01 20:38:23.517 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [40]: URL: http://195.213.83.72:6969/client/insurance/items/list/cost, crc: , responseText: . 
+2024-07-01 20:38:36.364 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [41]: URL: http://195.213.83.72:6969/client/match/group/exit_from_menu, crc: .  
+2024-07-01 20:38:36.479 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [41]: URL: http://195.213.83.72:6969/client/match/group/exit_from_menu, crc: , responseText: . 
+2024-07-01 20:38:55.844 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [42]: URL: http://195.213.83.72:6969/client/raid/configuration, crc: .  
+2024-07-01 20:38:55.980 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [42]: URL: http://195.213.83.72:6969/client/raid/configuration, crc: , responseText: . 
+2024-07-01 20:38:56.007 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [43]: URL: http://195.213.83.72:6969/client/location/getLocalloot, crc: .  
+2024-07-01 20:38:56.395 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [43]: URL: http://195.213.83.72:6969/client/location/getLocalloot, crc: , responseText: . 
+2024-07-01 20:40:38.813 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [44]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.813 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [45]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [46]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [47]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [48]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [49]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [50]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [51]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [52]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [53]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [54]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [55]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [57]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:38.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [56]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:42.058 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [58]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [44]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [45]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [46]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [47]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [48]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [49]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.221 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [50]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.272 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [51]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.322 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [53]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.322 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [52]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.322 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [54]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.352 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [55]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.386 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [57]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:42.386 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [56]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:40:43.538 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [59]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:44.813 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [60]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:44.872 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [61]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:45.111 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [63]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:45.111 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [62]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:45.190 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [64]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:45.229 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [65]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:45.268 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [66]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:40:45.397 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [67]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:03.032 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [68]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:03.044 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [69]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:03.057 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [70]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:03.129 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [71]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:03.129 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [72]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:03.564 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 51.66596 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 40.931 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 44.00813 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 49.21606 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 41.90434 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 41.14511 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 46.39862 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 42.04453 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 42.05339 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 47.82621 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 20:41:03.565 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 45.02937 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 20:41:04.228 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [58]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:04.780 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [70]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:04.790 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [71]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:04.841 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [72]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:05.096 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [73]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:05.165 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [74]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:05.182 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [73]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:05.256 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [75]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:05.274 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [74]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:05.334 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [75]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:05.726 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [76]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:05.788 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [76]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:10.099 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [77]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:10.158 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [77]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:22.172 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [78]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:22.259 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [78]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:22.648 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [79]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:22.728 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [79]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:22.956 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [80]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:23.030 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [80]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:23.193 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [82]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:23.193 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [81]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:23.361 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [82]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:23.361 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [81]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:43.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [83]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [84]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [85]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [86]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [87]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [88]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.670 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [89]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:43.899 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [84]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:43.899 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [86]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:43.941 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [87]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:43.941 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [88]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:43.982 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [83]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:43.982 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [89]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.002 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [85]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.202 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [90]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.223 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [91]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.281 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [90]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.304 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [91]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.396 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [92]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.457 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [93]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.476 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [92]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.529 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [93]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.590 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [60]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:44.612 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [94]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.720 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [94]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:44.797 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [64]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:44.892 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [95]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.932 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [96]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:44.973 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [95]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.024 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [96]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.150 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [97]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.225 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [97]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.302 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [98]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.342 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [99]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.390 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [98]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.410 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [99]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.459 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [100]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.537 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [100]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.548 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [62]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:45.569 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [101]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.646 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [101]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.703 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [66]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:45.703 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [67]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:45.703 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [102]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.783 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [102]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:45.901 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [103]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.958 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [104]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:45.971 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [103]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:46.014 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [104]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:46.192 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [105]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:46.257 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [105]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:46.454 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [106]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:46.502 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [106]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:48.155 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [61]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:48.358 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [107]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:48.415 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [107]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:48.678 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [69]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:48.745 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [108]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:48.817 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [108]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:49.003 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [109]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:49.056 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [109]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:49.358 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [110]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:49.413 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [110]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:50.016 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [65]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:51.463 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [68]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:51.706 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [111]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:51.763 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [111]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:51.991 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [112]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:52.057 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [112]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:52.273 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [113]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:52.323 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [113]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:52.839 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [63]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:52.970 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [114]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:53.034 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [114]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:55.820 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [59]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 20:41:56.055 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [115]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:56.117 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [115]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:41:56.174 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [116]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:41:56.231 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [116]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:42:04.386 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [118]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:42:04.386 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [117]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:42:04.504 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [117]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:42:04.504 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [118]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:42:24.572 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [119]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:42:24.668 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [119]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:42:45.002 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [120]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:42:45.106 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [120]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:05.270 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [121]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:05.362 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [121]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:25.680 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [122]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:25.785 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [122]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:43.330 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [124]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:43.330 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [123]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:43.330 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [125]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:43.404 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [124]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:43.427 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [123]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:43.477 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [125]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:43.788 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [126]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:43.904 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [126]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:44.110 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [127]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:44.254 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [127]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:44.773 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [128]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:44.861 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [128]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:45.204 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [129]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:45.286 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [129]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:43:45.947 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [130]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:43:46.041 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [130]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:44:06.535 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [131]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:44:06.636 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [131]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:44:26.730 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [132]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:44:26.821 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [132]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:44:39.882 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [133]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:44:39.944 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [133]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:44:40.330 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [134]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:44:40.404 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [134]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:44:46.914 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [135]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:44:48.306 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [135]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:45:08.452 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [136]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 20:45:08.538 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [136]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 20:45:28.937 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [137]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/1, crc: .  
+2024-07-01 20:45:29.042 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [137]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/1, crc: , responseText: . 
+2024-07-01 20:45:43.649 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [139]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: .  
+2024-07-01 20:45:43.649 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [138]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: .  
+2024-07-01 20:45:43.649 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [140]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: .  
+2024-07-01 20:45:43.716 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [139]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: , responseText: . 
+2024-07-01 20:45:43.730 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [138]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: , responseText: . 
+2024-07-01 20:45:43.748 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [140]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: , responseText: . 
+2024-07-01 20:45:43.985 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [141]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: .  
+2024-07-01 20:45:44.048 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [141]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: , responseText: . 
+2024-07-01 20:45:49.280 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [142]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: .  
+2024-07-01 20:45:49.399 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [142]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: , responseText: . 
+2024-07-01 20:46:09.645 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [143]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/3, crc: .  
+2024-07-01 20:46:09.768 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [143]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/3, crc: , responseText: . 
+2024-07-01 20:46:29.895 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [144]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/4, crc: .  
+2024-07-01 20:46:30.002 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [144]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/4, crc: , responseText: . 
+2024-07-01 20:46:50.168 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [145]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: .  
+2024-07-01 20:46:50.266 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [145]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: , responseText: . 
+2024-07-01 20:47:10.608 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [146]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: .  
+2024-07-01 20:47:10.701 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [146]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: , responseText: . 
+2024-07-01 20:47:30.834 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [147]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/6, crc: .  
+2024-07-01 20:47:30.924 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [147]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/6, crc: , responseText: . 
+2024-07-01 20:47:51.093 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [148]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/7, crc: .  
+2024-07-01 20:47:51.189 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [148]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/7, crc: , responseText: . 
+2024-07-01 20:48:11.305 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [149]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/8, crc: .  
+2024-07-01 20:48:12.708 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [149]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/8, crc: , responseText: . 
+2024-07-01 20:48:32.867 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [150]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/9, crc: .  
+2024-07-01 20:48:32.975 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [150]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/9, crc: , responseText: . 
+2024-07-01 20:48:53.169 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [151]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: .  
+2024-07-01 20:48:53.260 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [151]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: , responseText: . 
+2024-07-01 20:49:13.411 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [152]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: .  
+2024-07-01 20:49:13.513 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [152]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: , responseText: . 
+2024-07-01 20:49:33.998 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [153]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: .  
+2024-07-01 20:49:34.085 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [153]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: , responseText: . 
+2024-07-01 20:49:54.272 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [154]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: .  
+2024-07-01 20:49:54.373 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [154]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: , responseText: . 
+2024-07-01 20:50:14.475 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [155]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: .  
+2024-07-01 20:50:14.567 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [155]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: , responseText: . 
+2024-07-01 20:50:34.791 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [156]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: .  
+2024-07-01 20:50:34.890 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [156]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: , responseText: . 
+2024-07-01 20:50:55.003 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [157]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 20:50:55.150 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [157]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 20:51:15.258 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [158]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 20:51:15.345 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [158]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 20:51:35.423 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [159]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 20:51:36.841 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [159]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 20:51:56.936 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [160]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 20:51:57.026 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [160]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 20:52:17.236 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [161]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: .  
+2024-07-01 20:52:17.338 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [161]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: , responseText: . 
+2024-07-01 20:52:37.485 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [162]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: .  
+2024-07-01 20:52:37.606 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [162]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: , responseText: . 
+2024-07-01 20:52:57.813 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [163]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: .  
+2024-07-01 20:52:57.912 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [163]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: , responseText: . 
+2024-07-01 20:53:17.995 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [164]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 20:53:18.084 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [164]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 20:53:38.370 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [165]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 20:53:38.465 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [165]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 20:53:58.655 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [166]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 20:53:58.760 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [166]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 20:54:20.037 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [167]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 20:54:20.149 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [167]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 20:54:40.296 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [168]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: .  
+2024-07-01 20:54:40.386 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [168]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: , responseText: . 
+2024-07-01 20:55:00.459 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [169]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: .  
+2024-07-01 20:55:02.078 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [169]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: , responseText: . 
+2024-07-01 20:55:22.160 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [170]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: .  
+2024-07-01 20:55:22.277 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [170]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: , responseText: . 
+2024-07-01 20:55:42.348 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [171]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 20:55:42.432 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [171]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 20:56:02.607 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [172]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 20:56:02.704 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [172]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 20:56:22.843 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [173]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 20:56:22.931 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [173]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 20:56:43.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [174]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 20:56:43.188 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [174]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 20:57:03.230 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [175]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: .  
+2024-07-01 20:57:04.549 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [175]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: , responseText: . 
+2024-07-01 20:57:12.936 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [176]: URL: http://195.213.83.72:6969/client/match/offline/end, crc: .  
+2024-07-01 20:57:23.373 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [176]: URL: http://195.213.83.72:6969/client/match/offline/end, crc: , responseText: . 
+2024-07-01 20:57:24.489 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [177]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: .  
+2024-07-01 20:57:25.387 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [177]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-01 20:57:25.387 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [178]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: .  
+2024-07-01 20:57:25.408 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [178]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-01 20:57:25.772 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [179]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 20:57:25.787 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [179]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 20:57:25.787 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [180]: URL: http://195.213.83.72:6969/client/quest/list, crc: .  
+2024-07-01 20:57:26.442 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [180]: URL: http://195.213.83.72:6969/client/quest/list, crc: , responseText: . 
+2024-07-01 20:57:26.653 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [181]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-01 20:57:26.691 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [181]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-01 20:57:26.691 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [182]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: .  
+2024-07-01 20:57:26.711 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [182]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-01 20:57:26.711 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [183]: URL: http://195.213.83.72:6969/client/achievement/list, crc: .  
+2024-07-01 20:57:26.835 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [183]: URL: http://195.213.83.72:6969/client/achievement/list, crc: , responseText: . 
+2024-07-01 20:58:45.580 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [184]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: .  
+2024-07-01 20:58:45.630 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [184]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-01 20:58:52.814 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [185]: URL: http://195.213.83.72:6969/client/items, crc: .  
+2024-07-01 20:58:58.655 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [185]: URL: http://195.213.83.72:6969/client/items, crc: , responseText: . 
+2024-07-01 20:58:58.689 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [186]: URL: http://195.213.83.72:6969/client/customization, crc: .  
+2024-07-01 20:59:01.863 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [186]: URL: http://195.213.83.72:6969/client/customization, crc: , responseText: . 
+2024-07-01 20:59:01.880 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [187]: URL: http://195.213.83.72:6969/client/globals, crc: .  
+2024-07-01 20:59:02.318 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [187]: URL: http://195.213.83.72:6969/client/globals, crc: , responseText: . 
+2024-07-01 20:59:02.335 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [188]: URL: http://195.213.83.72:6969/client/trading/api/traderSettings, crc: .  
+2024-07-01 20:59:02.386 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [188]: URL: http://195.213.83.72:6969/client/trading/api/traderSettings, crc: , responseText: . 
+2024-07-01 20:59:02.402 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [189]: URL: http://195.213.83.72:6969/client/settings, crc: .  
+2024-07-01 20:59:02.453 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [189]: URL: http://195.213.83.72:6969/client/settings, crc: , responseText: . 
+2024-07-01 20:59:02.469 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [190]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: .  
+2024-07-01 20:59:03.158 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [190]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-01 20:59:03.158 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [191]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: .  
+2024-07-01 20:59:03.193 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [191]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-01 20:59:03.461 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [192]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 20:59:03.511 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [192]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 20:59:03.511 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [193]: URL: http://195.213.83.72:6969/client/weather, crc: .  
+2024-07-01 20:59:03.511 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [194]: URL: http://195.213.83.72:6969/client/locations, crc: .  
+2024-07-01 20:59:03.561 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [193]: URL: http://195.213.83.72:6969/client/weather, crc: , responseText: . 
+2024-07-01 20:59:04.366 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [194]: URL: http://195.213.83.72:6969/client/locations, crc: , responseText: . 
+2024-07-01 20:59:04.366 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [195]: URL: http://195.213.83.72:6969/client/handbook/templates, crc: .  
+2024-07-01 20:59:04.552 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [195]: URL: http://195.213.83.72:6969/client/handbook/templates, crc: , responseText: . 
+2024-07-01 20:59:05.803 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [196]: URL: http://195.213.83.72:6969/client/hideout/areas, crc: .  
+2024-07-01 20:59:05.870 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [196]: URL: http://195.213.83.72:6969/client/hideout/areas, crc: , responseText: . 
+2024-07-01 20:59:05.915 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [197]: URL: http://195.213.83.72:6969/client/hideout/qte/list, crc: .  
+2024-07-01 20:59:05.968 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [197]: URL: http://195.213.83.72:6969/client/hideout/qte/list, crc: , responseText: . 
+2024-07-01 20:59:05.985 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [198]: URL: http://195.213.83.72:6969/client/hideout/settings, crc: .  
+2024-07-01 20:59:06.019 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [198]: URL: http://195.213.83.72:6969/client/hideout/settings, crc: , responseText: . 
+2024-07-01 20:59:06.036 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [199]: URL: http://195.213.83.72:6969/client/hideout/production/recipes, crc: .  
+2024-07-01 20:59:06.170 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [199]: URL: http://195.213.83.72:6969/client/hideout/production/recipes, crc: , responseText: . 
+2024-07-01 20:59:06.170 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [200]: URL: http://195.213.83.72:6969/client/hideout/production/scavcase/recipes, crc: .  
+2024-07-01 20:59:06.220 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [200]: URL: http://195.213.83.72:6969/client/hideout/production/scavcase/recipes, crc: , responseText: . 
+2024-07-01 20:59:06.220 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [201]: URL: http://195.213.83.72:6969/client/builds/list, crc: .  
+2024-07-01 20:59:06.303 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [201]: URL: http://195.213.83.72:6969/client/builds/list, crc: , responseText: . 
+2024-07-01 20:59:11.129 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [203]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 20:59:11.129 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [202]: URL: http://195.213.83.72:6969/client/notifier/channel/create, crc: .  
+2024-07-01 20:59:11.129 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [204]: URL: http://195.213.83.72:6969/client/trading/customization/storage, crc: .  
+2024-07-01 20:59:11.166 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [202]: URL: http://195.213.83.72:6969/client/notifier/channel/create, crc: , responseText: . 
+2024-07-01 20:59:11.166 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [203]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 20:59:11.166 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [204]: URL: http://195.213.83.72:6969/client/trading/customization/storage, crc: , responseText: . 
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [205]: URL: http://195.213.83.72:6969/client/server/list, crc: .  
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [206]: URL: http://195.213.83.72:6969/client/match/group/current, crc: .  
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [208]: URL: http://195.213.83.72:6969/client/friend/list, crc: .  
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [209]: URL: http://195.213.83.72:6969/client/friend/request/list/inbox, crc: .  
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [210]: URL: http://195.213.83.72:6969/client/friend/request/list/outbox, crc: .  
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [207]: URL: http://195.213.83.72:6969/client/mail/dialog/list, crc: .  
+2024-07-01 20:59:11.182 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [211]: URL: http://195.213.83.72:6969/client/quest/list, crc: .  
+2024-07-01 20:59:11.217 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [205]: URL: http://195.213.83.72:6969/client/server/list, crc: , responseText: . 
+2024-07-01 20:59:11.217 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [206]: URL: http://195.213.83.72:6969/client/match/group/current, crc: , responseText: . 
+2024-07-01 20:59:11.234 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [207]: URL: http://195.213.83.72:6969/client/mail/dialog/list, crc: , responseText: . 
+2024-07-01 20:59:11.234 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [209]: URL: http://195.213.83.72:6969/client/friend/request/list/inbox, crc: , responseText: . 
+2024-07-01 20:59:11.234 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [210]: URL: http://195.213.83.72:6969/client/friend/request/list/outbox, crc: , responseText: . 
+2024-07-01 20:59:11.234 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [208]: URL: http://195.213.83.72:6969/client/friend/list, crc: , responseText: . 
+2024-07-01 20:59:11.668 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [211]: URL: http://195.213.83.72:6969/client/quest/list, crc: , responseText: . 
+2024-07-01 20:59:11.834 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [212]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-01 20:59:11.904 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [212]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-01 20:59:11.904 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [213]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: .  
+2024-07-01 20:59:11.954 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [213]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-01 20:59:11.954 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [214]: URL: http://195.213.83.72:6969/client/achievement/list, crc: .  
+2024-07-01 20:59:12.071 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [214]: URL: http://195.213.83.72:6969/client/achievement/list, crc: , responseText: . 
+2024-07-01 21:01:31.989 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [215]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:01:32.056 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [215]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:03:52.042 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [216]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:03:52.091 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [216]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:04:54.745 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [217]: URL: http://195.213.83.72:6969/client/mail/dialog/pin, crc: .  
+2024-07-01 21:04:54.779 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [217]: URL: http://195.213.83.72:6969/client/mail/dialog/pin, crc: , responseText: . 
+2024-07-01 21:04:55.705 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [218]: URL: http://195.213.83.72:6969/client/mail/dialog/view, crc: .  
+2024-07-01 21:04:55.756 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [218]: URL: http://195.213.83.72:6969/client/mail/dialog/view, crc: , responseText: . 
+2024-07-01 21:04:56.544 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [219]: URL: http://195.213.83.72:6969/client/mail/dialog/getAllAttachments, crc: .  
+2024-07-01 21:04:56.595 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [219]: URL: http://195.213.83.72:6969/client/mail/dialog/getAllAttachments, crc: , responseText: . 
+2024-07-01 21:04:59.192 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [221]: URL: http://195.213.83.72:6969/client/checkVersion, crc: .  
+2024-07-01 21:04:59.192 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [220]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: .  
+2024-07-01 21:04:59.226 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [221]: URL: http://195.213.83.72:6969/client/checkVersion, crc: , responseText: . 
+2024-07-01 21:04:59.323 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [220]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-01 21:05:49.636 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [222]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: .  
+2024-07-01 21:05:49.786 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [222]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-01 21:05:56.034 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [223]: URL: http://195.213.83.72:6969/client/insurance/items/list/cost, crc: .  
+2024-07-01 21:05:56.119 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [223]: URL: http://195.213.83.72:6969/client/insurance/items/list/cost, crc: , responseText: . 
+2024-07-01 21:05:59.016 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [224]: URL: http://195.213.83.72:6969/client/match/group/exit_from_menu, crc: .  
+2024-07-01 21:05:59.084 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [224]: URL: http://195.213.83.72:6969/client/match/group/exit_from_menu, crc: , responseText: . 
+2024-07-01 21:06:16.941 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [225]: URL: http://195.213.83.72:6969/client/raid/configuration, crc: .  
+2024-07-01 21:06:17.093 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [225]: URL: http://195.213.83.72:6969/client/raid/configuration, crc: , responseText: . 
+2024-07-01 21:06:17.110 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [226]: URL: http://195.213.83.72:6969/client/location/getLocalloot, crc: .  
+2024-07-01 21:06:17.479 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [226]: URL: http://195.213.83.72:6969/client/location/getLocalloot, crc: , responseText: . 
+2024-07-01 21:07:07.094 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [228]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [227]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [229]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [230]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [231]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [232]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [233]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [235]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [234]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [236]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [237]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [238]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [239]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:07.095 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [240]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:10.980 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [241]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:11.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [227]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [228]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [229]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [230]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [231]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [232]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.145 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [233]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.145 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [235]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.187 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [234]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.226 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [236]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.255 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [237]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.255 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [238]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.296 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [239]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:11.332 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [240]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:13.155 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [242]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.207 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [243]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.460 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [244]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.482 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [245]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.503 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [246]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.522 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [247]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.544 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [248]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.690 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [249]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:13.729 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [250]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 43.31844 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 43.00562 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 41.98074 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 50.01619 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 47.3654 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 49.93784 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 45.65257 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 41.83961 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:07:32.793 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 52.37685 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:07:32.820 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [241]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:33.673 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [251]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:33.674 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [252]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:33.803 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [251]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:33.803 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [253]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:33.821 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [254]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:33.834 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [252]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:33.886 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [255]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:34.090 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [256]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:34.813 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [257]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:36.458 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [254]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.458 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [253]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.507 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [255]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.507 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [256]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.550 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [257]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.678 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [258]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:36.756 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [258]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.776 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [259]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:36.913 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [259]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:36.950 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [260]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:36.970 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [261]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:37.030 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [260]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:37.049 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [261]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:37.071 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [262]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:37.157 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [262]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:37.571 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [263]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:37.721 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [263]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:38.881 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [264]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:38.947 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [264]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:42.009 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [265]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:42.072 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [265]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:42.194 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [266]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:42.239 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [267]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:42.308 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [266]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:42.308 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [267]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:42.887 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [268]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:42.992 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [268]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:43.500 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [269]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:43.615 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [269]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:43.755 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [270]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:43.847 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [270]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:07:54.680 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [271]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:07:54.792 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [271]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:08.200 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [272]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:08.265 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [272]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [274]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [273]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [275]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [276]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [277]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [278]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.006 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [279]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.065 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [273]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.097 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [276]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.119 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [274]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.144 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [275]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.167 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [277]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.167 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [278]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.188 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [279]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.298 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [280]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.410 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [280]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.606 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [281]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.694 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [281]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.736 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [282]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.821 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [282]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:12.862 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [283]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:12.949 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [283]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:13.014 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [284]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:13.098 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [284]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:13.331 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [285]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:13.393 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [285]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:13.414 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [286]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:13.476 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [286]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:13.638 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [287]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:13.714 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [287]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:13.751 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [288]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:13.827 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [288]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:14.693 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [249]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:14.841 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [289]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:14.871 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [244]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:14.903 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [289]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:15.153 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [290]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:15.258 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [290]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:15.870 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [243]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:16.205 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [242]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:16.295 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [291]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:16.379 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [291]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:16.637 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [292]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:16.720 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [292]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:16.753 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [293]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:16.831 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [293]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:16.889 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [294]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:17.097 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [295]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:17.462 +01:00|0.14.1.2.29197|Error|backend|<--- Error! HTTPS: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, isNetworkError:True, isHttpError:False, responseCode:0
+ responseHeaders:
+error text: Failed to receive data
+ 
+2024-07-01 21:08:17.462 +01:00|0.14.1.2.29197|Warn|backend|Request http://195.213.83.72:6969/QuestingBots/GenerateBot/0 will be retried after 43.13183 sec, retry:1 from retries:3 url:http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1 error:Backend error: Failed to receive data
+,  
+2024-07-01 21:08:17.519 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [294]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:18.539 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [248]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:18.776 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [296]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:18.837 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [296]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:19.099 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [297]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:19.171 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [297]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:19.850 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [298]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:20.532 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [298]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:21.287 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [246]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:21.762 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [299]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:21.828 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [299]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:22.802 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [247]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:22.888 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [245]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:23.175 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [300]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:23.279 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [300]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:23.483 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [301]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:23.565 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [301]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:25.282 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [250]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:08:35.322 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [302]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:35.423 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [302]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:08:55.604 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [303]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:08:55.705 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [303]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:09:00.651 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [295]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0?retry=1, crc: , responseText: . 
+2024-07-01 21:09:15.782 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [304]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:09:15.877 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [304]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:09:36.300 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [305]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:09:36.399 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [305]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:09:56.478 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [306]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:09:56.568 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [306]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:12.266 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [308]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:12.266 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [307]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:12.266 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [309]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:12.391 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [309]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:12.393 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [308]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:12.435 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [307]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:12.618 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [310]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:12.712 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [310]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:12.901 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [311]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:13.011 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [311]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:13.411 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [312]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:13.490 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [312]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:13.745 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [313]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:13.804 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [313]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:14.012 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [314]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:14.099 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [314]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:14.303 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [315]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:14.373 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [315]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:14.597 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [316]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:14.665 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [316]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:14.889 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [317]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:14.969 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [317]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:16.730 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [318]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:16.835 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [318]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:36.954 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [319]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:37.059 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [319]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:10:57.217 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [320]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:10:58.612 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [320]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:11:18.703 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [321]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:11:18.801 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [321]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:11:38.974 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [322]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: .  
+2024-07-01 21:11:39.075 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [322]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/0, crc: , responseText: . 
+2024-07-01 21:11:59.155 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [323]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/1, crc: .  
+2024-07-01 21:11:59.251 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [323]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/1, crc: , responseText: . 
+2024-07-01 21:12:19.369 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [324]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: .  
+2024-07-01 21:12:19.462 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [324]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/2, crc: , responseText: . 
+2024-07-01 21:12:39.536 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [325]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/3, crc: .  
+2024-07-01 21:12:39.624 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [325]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/3, crc: , responseText: . 
+2024-07-01 21:12:59.963 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [326]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/4, crc: .  
+2024-07-01 21:13:00.071 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [326]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/4, crc: , responseText: . 
+2024-07-01 21:13:20.325 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [327]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: .  
+2024-07-01 21:13:20.445 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [327]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: , responseText: . 
+2024-07-01 21:13:40.580 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [328]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: .  
+2024-07-01 21:13:40.672 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [328]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/5, crc: , responseText: . 
+2024-07-01 21:14:00.763 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [329]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/6, crc: .  
+2024-07-01 21:14:00.881 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [329]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/6, crc: , responseText: . 
+2024-07-01 21:14:20.967 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [330]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/7, crc: .  
+2024-07-01 21:14:22.371 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [330]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/7, crc: , responseText: . 
+2024-07-01 21:14:42.472 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [331]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/8, crc: .  
+2024-07-01 21:14:42.586 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [331]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/8, crc: , responseText: . 
+2024-07-01 21:15:02.729 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [332]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/9, crc: .  
+2024-07-01 21:15:02.817 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [332]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/9, crc: , responseText: . 
+2024-07-01 21:15:22.946 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [333]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: .  
+2024-07-01 21:15:23.046 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [333]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: , responseText: . 
+2024-07-01 21:15:43.165 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [334]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: .  
+2024-07-01 21:15:43.254 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [334]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: , responseText: . 
+2024-07-01 21:16:03.360 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [335]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: .  
+2024-07-01 21:16:03.478 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [335]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/10, crc: , responseText: . 
+2024-07-01 21:16:23.577 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [336]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: .  
+2024-07-01 21:16:23.660 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [336]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: , responseText: . 
+2024-07-01 21:16:43.785 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [337]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: .  
+2024-07-01 21:16:43.878 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [337]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: , responseText: . 
+2024-07-01 21:17:03.980 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [338]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: .  
+2024-07-01 21:17:04.066 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [338]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/11, crc: , responseText: . 
+2024-07-01 21:17:24.167 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [339]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 21:17:24.264 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [339]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 21:17:44.388 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [340]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 21:17:45.790 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [340]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 21:18:05.872 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [341]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 21:18:05.964 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [341]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 21:18:26.066 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [342]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: .  
+2024-07-01 21:18:26.184 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [342]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/12, crc: , responseText: . 
+2024-07-01 21:18:47.241 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [343]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: .  
+2024-07-01 21:18:47.342 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [343]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: , responseText: . 
+2024-07-01 21:19:07.479 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [344]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: .  
+2024-07-01 21:19:07.590 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [344]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: , responseText: . 
+2024-07-01 21:19:27.694 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [345]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: .  
+2024-07-01 21:19:27.786 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [345]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/13, crc: , responseText: . 
+2024-07-01 21:19:47.891 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [346]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 21:19:48.001 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [346]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 21:20:08.125 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [347]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 21:20:08.217 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [347]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 21:20:28.427 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [348]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 21:20:28.551 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [348]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 21:20:48.935 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [349]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: .  
+2024-07-01 21:20:49.036 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [349]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/14, crc: , responseText: . 
+2024-07-01 21:21:09.350 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [350]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: .  
+2024-07-01 21:21:10.803 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [350]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: , responseText: . 
+2024-07-01 21:21:31.267 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [351]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: .  
+2024-07-01 21:21:31.366 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [351]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: , responseText: . 
+2024-07-01 21:21:51.680 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [352]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: .  
+2024-07-01 21:21:51.778 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [352]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/15, crc: , responseText: . 
+2024-07-01 21:22:12.061 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [353]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 21:22:12.154 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [353]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 21:22:32.298 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [354]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 21:22:32.411 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [354]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 21:22:52.558 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [355]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 21:22:52.650 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [355]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 21:23:12.759 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [356]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: .  
+2024-07-01 21:23:12.852 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [356]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/16, crc: , responseText: . 
+2024-07-01 21:23:32.950 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [357]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: .  
+2024-07-01 21:23:33.072 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [357]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: , responseText: . 
+2024-07-01 21:23:53.246 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [358]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: .  
+2024-07-01 21:23:53.353 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [358]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: , responseText: . 
+2024-07-01 21:24:13.473 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [359]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: .  
+2024-07-01 21:24:13.572 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [359]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/17, crc: , responseText: . 
+2024-07-01 21:24:33.731 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [360]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: .  
+2024-07-01 21:24:35.054 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [360]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: , responseText: . 
+2024-07-01 21:24:56.023 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [361]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: .  
+2024-07-01 21:24:56.118 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [361]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: , responseText: . 
+2024-07-01 21:25:16.243 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [362]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: .  
+2024-07-01 21:25:16.336 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [362]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: , responseText: . 
+2024-07-01 21:25:36.422 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [363]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: .  
+2024-07-01 21:25:36.515 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [363]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/18, crc: , responseText: . 
+2024-07-01 21:25:56.592 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [364]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: .  
+2024-07-01 21:25:56.686 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [364]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: , responseText: . 
+2024-07-01 21:26:04.167 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [365]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: .  
+2024-07-01 21:26:04.244 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [365]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: , responseText: . 
+2024-07-01 21:26:16.826 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [366]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: .  
+2024-07-01 21:26:16.918 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [366]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: , responseText: . 
+2024-07-01 21:26:37.007 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [367]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: .  
+2024-07-01 21:26:37.093 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [367]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/19, crc: , responseText: . 
+2024-07-01 21:26:57.185 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [368]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/20, crc: .  
+2024-07-01 21:26:57.272 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [368]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/20, crc: , responseText: . 
+2024-07-01 21:27:17.364 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [369]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/20, crc: .  
+2024-07-01 21:27:17.449 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [369]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/20, crc: , responseText: . 
+2024-07-01 21:27:37.545 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [370]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/20, crc: .  
+2024-07-01 21:27:37.630 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [370]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/20, crc: , responseText: . 
+2024-07-01 21:27:57.713 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [371]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/22, crc: .  
+2024-07-01 21:27:59.088 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [371]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/22, crc: , responseText: . 
+2024-07-01 21:28:19.315 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [372]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/23, crc: .  
+2024-07-01 21:28:19.501 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [372]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/23, crc: , responseText: . 
+2024-07-01 21:28:39.723 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [373]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/24, crc: .  
+2024-07-01 21:28:39.834 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [373]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/24, crc: , responseText: . 
+2024-07-01 21:28:44.167 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [374]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/25, crc: .  
+2024-07-01 21:28:44.238 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [374]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/25, crc: , responseText: . 
+2024-07-01 21:28:59.940 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [375]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/25, crc: .  
+2024-07-01 21:29:00.042 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [375]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/25, crc: , responseText: . 
+2024-07-01 21:29:20.931 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [376]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/27, crc: .  
+2024-07-01 21:29:21.039 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [376]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/27, crc: , responseText: . 
+2024-07-01 21:29:41.252 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [377]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/28, crc: .  
+2024-07-01 21:29:42.744 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [377]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/28, crc: , responseText: . 
+2024-07-01 21:30:02.880 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [378]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/29, crc: .  
+2024-07-01 21:30:04.308 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [378]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/29, crc: , responseText: . 
+2024-07-01 21:30:24.447 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [379]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/31, crc: .  
+2024-07-01 21:30:24.543 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [379]: URL: http://195.213.83.72:6969/QuestingBots/GenerateBot/31, crc: , responseText: . 
+2024-07-01 21:30:31.896 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [380]: URL: http://195.213.83.72:6969/client/match/offline/end, crc: .  
+2024-07-01 21:30:47.026 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [380]: URL: http://195.213.83.72:6969/client/match/offline/end, crc: , responseText: . 
+2024-07-01 21:30:47.938 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [381]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: .  
+2024-07-01 21:30:48.720 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [381]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-01 21:30:48.721 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [382]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: .  
+2024-07-01 21:30:48.736 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [382]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-01 21:30:49.052 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [383]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 21:30:49.066 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [383]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 21:30:49.066 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [384]: URL: http://195.213.83.72:6969/client/quest/list, crc: .  
+2024-07-01 21:30:49.631 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [384]: URL: http://195.213.83.72:6969/client/quest/list, crc: , responseText: . 
+2024-07-01 21:30:49.779 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [385]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-01 21:30:49.824 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [385]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-01 21:30:49.824 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [386]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: .  
+2024-07-01 21:30:49.842 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [386]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-01 21:30:49.842 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [387]: URL: http://195.213.83.72:6969/client/achievement/list, crc: .  
+2024-07-01 21:30:49.962 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [387]: URL: http://195.213.83.72:6969/client/achievement/list, crc: , responseText: . 
+2024-07-01 21:31:00.665 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [388]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: .  
+2024-07-01 21:31:00.715 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [388]: URL: http://195.213.83.72:6969/client/game/profile/items/moving, crc: , responseText: . 
+2024-07-01 21:31:09.998 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [389]: URL: http://195.213.83.72:6969/client/items, crc: .  
+2024-07-01 21:31:15.125 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [389]: URL: http://195.213.83.72:6969/client/items, crc: , responseText: . 
+2024-07-01 21:31:15.158 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [390]: URL: http://195.213.83.72:6969/client/customization, crc: .  
+2024-07-01 21:31:15.278 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [390]: URL: http://195.213.83.72:6969/client/customization, crc: , responseText: . 
+2024-07-01 21:31:15.294 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [391]: URL: http://195.213.83.72:6969/client/globals, crc: .  
+2024-07-01 21:31:15.717 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [391]: URL: http://195.213.83.72:6969/client/globals, crc: , responseText: . 
+2024-07-01 21:31:15.733 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [392]: URL: http://195.213.83.72:6969/client/trading/api/traderSettings, crc: .  
+2024-07-01 21:31:15.784 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [392]: URL: http://195.213.83.72:6969/client/trading/api/traderSettings, crc: , responseText: . 
+2024-07-01 21:31:15.801 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [393]: URL: http://195.213.83.72:6969/client/settings, crc: .  
+2024-07-01 21:31:15.852 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [393]: URL: http://195.213.83.72:6969/client/settings, crc: , responseText: . 
+2024-07-01 21:31:15.868 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [394]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: .  
+2024-07-01 21:31:16.459 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [394]: URL: http://195.213.83.72:6969/client/game/profile/list, crc: , responseText: . 
+2024-07-01 21:31:16.459 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [395]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: .  
+2024-07-01 21:31:16.510 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [395]: URL: http://195.213.83.72:6969/client/game/profile/select, crc: , responseText: . 
+2024-07-01 21:31:16.780 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [396]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 21:31:16.833 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [396]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 21:31:16.833 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [397]: URL: http://195.213.83.72:6969/client/weather, crc: .  
+2024-07-01 21:31:16.833 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [398]: URL: http://195.213.83.72:6969/client/locations, crc: .  
+2024-07-01 21:31:16.883 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [397]: URL: http://195.213.83.72:6969/client/weather, crc: , responseText: . 
+2024-07-01 21:31:17.643 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [398]: URL: http://195.213.83.72:6969/client/locations, crc: , responseText: . 
+2024-07-01 21:31:17.660 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [399]: URL: http://195.213.83.72:6969/client/handbook/templates, crc: .  
+2024-07-01 21:31:17.844 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [399]: URL: http://195.213.83.72:6969/client/handbook/templates, crc: , responseText: . 
+2024-07-01 21:31:19.004 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [400]: URL: http://195.213.83.72:6969/client/hideout/areas, crc: .  
+2024-07-01 21:31:19.071 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [400]: URL: http://195.213.83.72:6969/client/hideout/areas, crc: , responseText: . 
+2024-07-01 21:31:19.119 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [401]: URL: http://195.213.83.72:6969/client/hideout/qte/list, crc: .  
+2024-07-01 21:31:19.170 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [401]: URL: http://195.213.83.72:6969/client/hideout/qte/list, crc: , responseText: . 
+2024-07-01 21:31:19.187 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [402]: URL: http://195.213.83.72:6969/client/hideout/settings, crc: .  
+2024-07-01 21:31:19.238 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [402]: URL: http://195.213.83.72:6969/client/hideout/settings, crc: , responseText: . 
+2024-07-01 21:31:19.238 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [403]: URL: http://195.213.83.72:6969/client/hideout/production/recipes, crc: .  
+2024-07-01 21:31:19.356 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [403]: URL: http://195.213.83.72:6969/client/hideout/production/recipes, crc: , responseText: . 
+2024-07-01 21:31:19.356 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [404]: URL: http://195.213.83.72:6969/client/hideout/production/scavcase/recipes, crc: .  
+2024-07-01 21:31:19.406 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [404]: URL: http://195.213.83.72:6969/client/hideout/production/scavcase/recipes, crc: , responseText: . 
+2024-07-01 21:31:19.406 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [405]: URL: http://195.213.83.72:6969/client/builds/list, crc: .  
+2024-07-01 21:31:19.508 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [405]: URL: http://195.213.83.72:6969/client/builds/list, crc: , responseText: . 
+2024-07-01 21:31:25.715 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [406]: URL: http://195.213.83.72:6969/client/notifier/channel/create, crc: .  
+2024-07-01 21:31:25.715 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [408]: URL: http://195.213.83.72:6969/client/trading/customization/storage, crc: .  
+2024-07-01 21:31:25.715 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [407]: URL: http://195.213.83.72:6969/client/profile/status, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [406]: URL: http://195.213.83.72:6969/client/notifier/channel/create, crc: , responseText: . 
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [407]: URL: http://195.213.83.72:6969/client/profile/status, crc: , responseText: . 
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [408]: URL: http://195.213.83.72:6969/client/trading/customization/storage, crc: , responseText: . 
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [410]: URL: http://195.213.83.72:6969/client/match/group/current, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [409]: URL: http://195.213.83.72:6969/client/server/list, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [412]: URL: http://195.213.83.72:6969/client/friend/list, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [413]: URL: http://195.213.83.72:6969/client/friend/request/list/inbox, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [411]: URL: http://195.213.83.72:6969/client/mail/dialog/list, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [414]: URL: http://195.213.83.72:6969/client/friend/request/list/outbox, crc: .  
+2024-07-01 21:31:25.786 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [415]: URL: http://195.213.83.72:6969/client/quest/list, crc: .  
+2024-07-01 21:31:25.820 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [409]: URL: http://195.213.83.72:6969/client/server/list, crc: , responseText: . 
+2024-07-01 21:31:25.820 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [413]: URL: http://195.213.83.72:6969/client/friend/request/list/inbox, crc: , responseText: . 
+2024-07-01 21:31:25.820 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [412]: URL: http://195.213.83.72:6969/client/friend/list, crc: , responseText: . 
+2024-07-01 21:31:25.820 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [414]: URL: http://195.213.83.72:6969/client/friend/request/list/outbox, crc: , responseText: . 
+2024-07-01 21:31:25.836 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [411]: URL: http://195.213.83.72:6969/client/mail/dialog/list, crc: , responseText: . 
+2024-07-01 21:31:25.836 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [410]: URL: http://195.213.83.72:6969/client/match/group/current, crc: , responseText: . 
+2024-07-01 21:31:26.291 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [415]: URL: http://195.213.83.72:6969/client/quest/list, crc: , responseText: . 
+2024-07-01 21:31:26.455 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [416]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: .  
+2024-07-01 21:31:26.524 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [416]: URL: http://195.213.83.72:6969/client/repeatalbeQuests/activityPeriods, crc: , responseText: . 
+2024-07-01 21:31:26.524 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [417]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: .  
+2024-07-01 21:31:26.575 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [417]: URL: http://195.213.83.72:6969/client/achievement/statistic, crc: , responseText: . 
+2024-07-01 21:31:26.592 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [418]: URL: http://195.213.83.72:6969/client/achievement/list, crc: .  
+2024-07-01 21:31:26.709 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [418]: URL: http://195.213.83.72:6969/client/achievement/list, crc: , responseText: . 
+2024-07-01 21:33:46.638 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [419]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:33:46.689 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [419]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:36:06.674 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [420]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:36:06.724 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [420]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:38:26.720 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [421]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:38:26.770 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [421]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:40:46.763 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [422]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:40:46.830 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [422]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:43:06.827 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [423]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:43:06.943 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [423]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:45:26.932 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [424]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:45:32.416 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [424]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:47:52.429 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [425]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:47:52.496 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [425]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:50:12.494 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [426]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:50:12.528 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [426]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:52:32.540 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [427]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:52:32.590 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [427]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:54:52.584 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [428]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:54:52.701 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [428]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:57:12.694 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [429]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:57:12.746 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [429]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 21:59:32.739 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [430]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: .  
+2024-07-01 21:59:32.787 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [430]: URL: http://195.213.83.72:6969/client/game/keepalive, crc: , responseText: . 
+2024-07-01 22:01:08.840 +01:00|0.14.1.2.29197|Info|backend|---> Request HTTPS, id [431]: URL: http://195.213.83.72:6969/client/game/logout, crc: .  
+2024-07-01 22:01:08.975 +01:00|0.14.1.2.29197|Info|backend|<--- Response HTTPS, id [431]: URL: http://195.213.83.72:6969/client/game/logout, crc: , responseText: . 

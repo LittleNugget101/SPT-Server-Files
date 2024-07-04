@@ -1,0 +1,147 @@
+2024-07-01 20:33:47.299 +01:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://195.213.83.72:6969/notifierServer/getwebsocket/664d23470003209f18619b64
+2024-07-01 20:34:53.558 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:609 MessageType:Text
+2024-07-01 20:34:53.558 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:609
+2024-07-01 20:34:53.565 +01:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "7f52ddbbae45ab0b694fb0cb",
+  "dialogId": "66671ebd0001ce94da4e6bbc",
+  "message": {
+    "_id": "7f52ddbbae45ab0b694fb0cb",
+    "uid": "66671ebd0001ce94da4e6bbc",
+    "type": 1,
+    "dt": 1719862494,
+    "text": "You have received a gift from CHICKEN JOE",
+    "hasRewards": true,
+    "rewardCollected": false,
+    "items": {
+      "stash": "6613e1cf291a2e76b0026acc",
+      "data": [
+        {
+          "_id": "2ab8b0683c044d590ee52859",
+          "_tpl": "59faff1d86f7746c51718c9c",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": false
+          },
+          "parentId": "6613e1cf291a2e76b0026acc",
+          "slotId": "main",
+          "location": {
+            "x": 9,
+            "y": 9,
+            "r": "Horizontal",
+            "isSearched": true
+          }
+        }
+      ]
+    },
+    "maxStorageTime": 172800
+  }
+}
+2024-07-01 20:34:53.565 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-07-01 20:35:00.151 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:588 MessageType:Text
+2024-07-01 20:35:00.151 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:588
+2024-07-01 20:35:00.151 +01:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "4ca496088035874b48dd3589",
+  "dialogId": "66671ebd0001ce94da4e6bbc",
+  "message": {
+    "_id": "4ca496088035874b48dd3589",
+    "uid": "66671ebd0001ce94da4e6bbc",
+    "type": 1,
+    "dt": 1719862500,
+    "text": "You have received a gift from CHICKEN JOE",
+    "hasRewards": true,
+    "rewardCollected": false,
+    "items": {
+      "stash": "6613e1cf291a2e76b0026acc",
+      "data": [
+        {
+          "_id": "4f3682352c8d582b191cc8b3",
+          "_tpl": "5d1b33a686f7742523398398",
+          "parentId": "6613e1cf291a2e76b0026acc",
+          "slotId": "main",
+          "location": {
+            "x": 5,
+            "y": 12,
+            "r": "Horizontal",
+            "isSearched": true
+          },
+          "upd": {
+            "SpawnedInSession": false
+          }
+        }
+      ]
+    },
+    "maxStorageTime": 172800
+  }
+}
+2024-07-01 20:35:00.151 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-07-01 20:35:17.325 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 20:35:17.325 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 20:35:17.325 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 20:36:47.344 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 20:36:47.344 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 20:36:47.344 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 20:38:17.343 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 20:38:17.343 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 20:38:17.343 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 20:38:55.845 +01:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-07-01 20:38:55.845 +01:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-07-01 20:59:11.129 +01:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-07-01 20:59:11.129 +01:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-07-01 20:59:11.166 +01:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://195.213.83.72:6969/notifierServer/getwebsocket/664d23470003209f18619b64
+2024-07-01 21:00:41.185 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:00:41.185 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:00:41.185 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:02:11.204 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:02:11.204 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:02:11.204 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:03:41.191 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:03:41.191 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:03:41.191 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:05:11.206 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:05:11.206 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:05:11.206 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:06:16.941 +01:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-07-01 21:06:16.941 +01:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-07-01 21:31:25.715 +01:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-07-01 21:31:25.715 +01:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-07-01 21:31:25.786 +01:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://195.213.83.72:6969/notifierServer/getwebsocket/664d23470003209f18619b64
+2024-07-01 21:32:55.823 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:32:55.823 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:32:55.823 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:34:25.811 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:34:25.811 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:34:25.811 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:35:55.813 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:35:55.813 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:35:55.813 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:37:25.823 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:37:25.823 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:37:25.823 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:38:55.821 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:38:55.821 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:38:55.821 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:40:25.850 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:40:25.850 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:40:25.850 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:41:55.847 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:41:55.847 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:41:55.847 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:43:25.848 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:43:25.848 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:43:25.848 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:44:55.863 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:44:55.863 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:44:55.863 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:46:25.869 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:46:25.869 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:46:25.869 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:47:55.888 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:47:55.888 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:47:55.888 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-07-01 21:49:25.887 +01:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-07-01 21:49:25.887 +01:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-07-01 21:49:25.887 +01:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping

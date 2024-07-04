@@ -1,0 +1,40 @@
+[2024-07-01 18:15:16] ==== Launcher Started ====
+[2024-07-01 18:15:16][Info] Using launcher config at: C:\spt\user\launcher\config.json
+[2024-07-01 18:15:18][Info] Connected to server: http://195.213.83.72:6969 - Aki Version: 3.8.3
+[2024-07-01 18:15:20][Info] >>> Launching Game
+[2024-07-01 18:15:20][Info] >>> Account: Littlenugget
+[2024-07-01 18:15:20][Info] >>> Server : http://195.213.83.72:6969
+[2024-07-01 18:15:20][Info] [LaunchGame] Installed in Live :: NO
+[2024-07-01 18:15:20][Info] [LaunchGame] Setup Game Files ...
+[2024-07-01 18:15:20][Info] Recursive Removal: C:\spt\Logs
+[2024-07-01 18:15:20][Info] Recursive Removal: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 application.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 errors.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 notifications.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 spatial-audio.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 spawnsystem.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 speaker.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197 traces.log
+[2024-07-01 18:15:20][Debug]   -> del file: C:\spt\Logs\log_2024.06.30_16-16-46_0.14.1.2.29197\2024.06.30_16-16-46_0.14.1.2.29197_backend.log
+[2024-07-01 18:15:20][Info] [LaunchGame] Game Validation   :: OK
+[2024-07-01 18:15:20][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-07-01 18:15:21][Info] [LaunchGame] Applying Patch    :: OK
+[2024-07-01 18:15:21][Info] [LaunchGame] Game process started
+[2024-07-01 20:33:00][Info] >>> Launching Game
+[2024-07-01 20:33:00][Info] >>> Account: Littlenugget
+[2024-07-01 20:33:00][Info] >>> Server : http://195.213.83.72:6969
+[2024-07-01 20:33:00][Info] [LaunchGame] Installed in Live :: NO
+[2024-07-01 20:33:00][Info] [LaunchGame] Setup Game Files ...
+[2024-07-01 20:33:00][Info] Recursive Removal: C:\spt\Logs
+[2024-07-01 20:33:00][Info] Recursive Removal: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197 application.log
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197 errors.log
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197 notifications.log
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197 spatial-audio.log
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197 speaker.log
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197 traces.log
+[2024-07-01 20:33:00][Debug]   -> del file: C:\spt\Logs\log_2024.07.01_17-15-42_0.14.1.2.29197\2024.07.01_17-15-42_0.14.1.2.29197_backend.log
+[2024-07-01 20:33:00][Info] [LaunchGame] Game Validation   :: OK
+[2024-07-01 20:33:00][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-07-01 20:33:00][Info] [LaunchGame] Applying Patch    :: OK
+[2024-07-01 20:33:00][Info] [LaunchGame] Game process started
